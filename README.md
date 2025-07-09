@@ -1,4 +1,4 @@
-# contract-killer
+# Contract Killer
 Risk analyzer for Terms &amp; Conditions
 
 A simple tool that finds dangerous or unfair clauses in contracts, terms & conditions, or privacy policies.
